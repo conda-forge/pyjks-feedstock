@@ -1,8 +1,8 @@
 {% set name = "pyjks" %}
-{% set version = "18.0.0" %}
+{% set version = "19.0.0" %}
 {% set file_ext = "tar.gz" %}
 {% set hash_type = "sha256" %}
-{% set hash_value = "72e478c59c3fd19c869b5c6f2822be5756c38771f148c315bb71b76cf93482ed" %}
+{% set hash_value = "9ce5b40289bcdffcd6a8e7118b333ba8ba2ec4c9ebc5e324885cc8a69767011a" %}
 
 package:
   name: '{{ name|lower }}'
